@@ -9,9 +9,11 @@
 
 ## Overview
 
-This is my personall Fork of the #100DaysOfCode challenge, if you want more information please read [below](if-you've-decided-to-join:). I change the rules a little, especially the part of don't count seeing tutorials or take online courses because sometimes i like to slow down a bit, sit down and do some research, write down what i found in a [Cheetsheet](https://github.com/aleee-idk/cheetsheets) so i can reference later and then comeback to code with all the info i needed.
+This is my personall Fork of the #100DaysOfCode challenge, if you want more information please read [below](if-you've-decided-to-join:). 
 
-##If you've decided to join:
+I change the rules a little, especially the part of don't count seeing tutorials or take online courses because sometimes i like to slow down a bit, sit down and do some research, write down what i found in a [Cheetsheet](https://github.com/aleee-idk/cheetsheets) so i can reference later and then comeback to code with all the info i needed.
+
+## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
